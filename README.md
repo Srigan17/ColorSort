@@ -2,7 +2,6 @@
 
 A polished, modern Water / Color Sort Puzzle game built with vanilla HTML5, CSS3, and JavaScript. Zero external dependencies, fully playable offline in any web browser.
 
-![Color Sort Puzzle Screenshot](https://raw.githubusercontent.com/Srigan17/ColorSort/main/screenshot.png) *(Optional preview)*
 
 ## 🎮 Features
 
